@@ -1,0 +1,374 @@
+{
+ "abstand": {
+  "a": 8,
+  "c": 3,
+  "durchmesser": 23,
+  "zeilen": [
+   {
+    "abbruch_groesster": 0.11230533500722317,
+    "abstand_mindestens": 1,
+    "anteil_unter_90": 0.4894192913385827,
+    "kleinster_anteil": 0.39560271136777,
+    "median_anteil": 0.9422725948413377,
+    "paare": 16256
+   },
+   {
+    "abbruch_groesster": 0.10074156362038843,
+    "abstand_mindestens": 4,
+    "anteil_unter_90": 0.4110666285387475,
+    "kleinster_anteil": 0.5911036869079174,
+    "median_anteil": 0.9599461728912386,
+    "paare": 13988
+   },
+   {
+    "abbruch_groesster": 0.09521582031355434,
+    "abstand_mindestens": 8,
+    "anteil_unter_90": 0.18447037701974867,
+    "kleinster_anteil": 0.7463648029523562,
+    "median_anteil": 0.9668086748459352,
+    "paare": 8912
+   },
+   {
+    "abbruch_groesster": 0.09224673626574814,
+    "abstand_mindestens": 10,
+    "anteil_unter_90": 0.08248043347381095,
+    "kleinster_anteil": 0.7923194461477059,
+    "median_anteil": 0.9684021944340475,
+    "paare": 6644
+   },
+   {
+    "abbruch_groesster": 0.08755733866708666,
+    "abstand_mindestens": 12,
+    "anteil_unter_90": 0.02586206896551724,
+    "kleinster_anteil": 0.835793287636124,
+    "median_anteil": 0.9694888768626442,
+    "paare": 4640
+   },
+   {
+    "abbruch_groesster": 0.07915137352975435,
+    "abstand_mindestens": 14,
+    "anteil_unter_90": 0.002797202797202797,
+    "kleinster_anteil": 0.8818972574045129,
+    "median_anteil": 0.9703269855730408,
+    "paare": 2860
+   },
+   {
+    "abbruch_groesster": 0.03902771322076573,
+    "abstand_mindestens": 15,
+    "anteil_unter_90": 0.0,
+    "kleinster_anteil": 0.9653031656961341,
+    "median_anteil": 0.9707089648339108,
+    "paare": 2108
+   }
+  ]
+ },
+ "atlas": {
+  "endpunkte_nicht_kuerzer": 0,
+  "ergaenzungen": 9182,
+  "graphen": 994,
+  "groesster_faktor": 9.176470588235278,
+  "kleinstes_mit_laengerem_mittel": {
+   "kanten": 4,
+   "knoten": 5,
+   "nachher": 7.333333333333334,
+   "vorher": 7.2
+  },
+  "mindestens_eins_laenger": 9182,
+  "mittel_laenger": 1490,
+  "mittlerer_anteil_je_ergaenzung": 0.606038989326944,
+  "paare": 374770,
+  "paare_laenger": 227760,
+  "zufallsziel_laenger": 850
+ },
+ "deckung": [
+  {
+   "a": 8,
+   "anteil": 0.95075,
+   "cv": 1.829464067837957,
+   "h": 4.666666666666665,
+   "laeufe": 1286,
+   "netz": "hand",
+   "paar": "cv",
+   "u": 0,
+   "v": 1,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 8,
+   "anteil": 0.94975,
+   "cv": 1.0879675865519869,
+   "h": 6.999999999999998,
+   "laeufe": 455,
+   "netz": "hand",
+   "paar": "tuer",
+   "u": 2,
+   "v": 3,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 3,
+   "anteil": 0.95,
+   "cv": 2.5571859533479393,
+   "h": 12.5,
+   "laeufe": 2513,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 0,
+   "v": 3,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 3,
+   "anteil": 0.951,
+   "cv": 1.2699606293110037,
+   "h": 24.999999999999996,
+   "laeufe": 620,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 5,
+   "v": 12,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 4,
+   "anteil": 0.9495,
+   "cv": 3.0542686265624064,
+   "h": 20.017857142857086,
+   "laeufe": 3584,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 0,
+   "v": 1,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 4,
+   "anteil": 0.951,
+   "cv": 1.3782904828820333,
+   "h": 48.999999999999986,
+   "laeufe": 730,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 11,
+   "v": 24,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 5,
+   "anteil": 0.9575,
+   "cv": 3.318122328794755,
+   "h": 31.84909090909084,
+   "laeufe": 4230,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 0,
+   "v": 1,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 5,
+   "anteil": 0.95175,
+   "cv": 1.4192074294231887,
+   "h": 80.99999999999982,
+   "laeufe": 774,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 14,
+   "v": 35,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 6,
+   "anteil": 0.95225,
+   "cv": 3.574829244968368,
+   "h": 47.97327117327103,
+   "laeufe": 4910,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 0,
+   "v": 1,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 6,
+   "anteil": 0.947,
+   "cv": 1.4716372715502608,
+   "h": 120.99999999999973,
+   "laeufe": 832,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 23,
+   "v": 54,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 7,
+   "anteil": 0.94925,
+   "cv": 3.747643882228609,
+   "h": 55.77755404178757,
+   "laeufe": 5396,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 7,
+   "v": 8,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 7,
+   "anteil": 0.9545,
+   "cv": 1.4994621793748069,
+   "h": 168.99999999999943,
+   "laeufe": 864,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 27,
+   "v": 70,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 8,
+   "anteil": 0.953,
+   "cv": 3.932170308792687,
+   "h": 74.86271109956856,
+   "laeufe": 5940,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 8,
+   "v": 9,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 8,
+   "anteil": 0.949,
+   "cv": 1.5332825748146806,
+   "h": 224.99999999999952,
+   "laeufe": 904,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 39,
+   "v": 96,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 9,
+   "anteil": 0.94975,
+   "cv": 4.0566742990273985,
+   "h": 95.96896020403751,
+   "laeufe": 6322,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 9,
+   "v": 10,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 9,
+   "anteil": 0.95375,
+   "cv": 1.5544403616455564,
+   "h": 288.9999999999978,
+   "laeufe": 929,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 44,
+   "v": 117,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 10,
+   "anteil": 0.9505,
+   "cv": 4.191807038121069,
+   "h": 120.34544446063579,
+   "laeufe": 6751,
+   "netz": "hallen",
+   "paar": "cv",
+   "u": 10,
+   "v": 11,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 10,
+   "anteil": 0.949,
+   "cv": 1.5791629535337213,
+   "h": 360.9999999999983,
+   "laeufe": 959,
+   "netz": "hallen",
+   "paar": "tuer",
+   "u": 59,
+   "v": 150,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 8,
+   "anteil": 0.9485,
+   "cv": 4.483091262747112,
+   "h": 441.0000000003051,
+   "laeufe": 7721,
+   "netz": "saal",
+   "paar": "cv",
+   "u": 30,
+   "v": 31,
+   "wiederholungen": 4000
+  },
+  {
+   "a": 8,
+   "anteil": 0.94825,
+   "cv": 1.0430231396374008,
+   "h": 421.00000000002814,
+   "laeufe": 418,
+   "netz": "saal",
+   "paar": "tuer",
+   "u": 20,
+   "v": 21,
+   "wiederholungen": 4000
+  }
+ ],
+ "streuung": {
+  "K": 225,
+  "a": 8,
+  "c": 3,
+  "u": 8,
+  "v": 9,
+  "wiederholungen": 4000,
+  "zeilen": [
+   {
+    "gekappt": [
+     0.28238357507362344,
+     0.414224913104686,
+     0.5688012012197271
+    ],
+    "laeufe": 100,
+    "zensurbewusst": [
+     0.29385791239567843,
+     0.4438231793051426,
+     0.638218624834356
+    ]
+   },
+   {
+    "gekappt": [
+     0.35770812473493674,
+     0.4188467067175278,
+     0.4821679507704607
+    ],
+    "laeufe": 500,
+    "zensurbewusst": [
+     0.37800441275505187,
+     0.4498548499204156,
+     0.5274187647907104
+    ]
+   },
+   {
+    "gekappt": [
+     0.399733586460676,
+     0.41941841991587925,
+     0.44000036221223404
+    ],
+    "laeufe": 5000,
+    "zensurbewusst": [
+     0.42701488799639564,
+     0.45049233730810434,
+     0.47529726529821686
+    ]
+   }
+  ]
+ }
+}
